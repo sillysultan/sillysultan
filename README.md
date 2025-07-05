@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/nVftb3t" width="125" style="border-radius: 15px" />
+  <img src="https://ibb.co/nVftb3t.png" width="125" style="border-radius: 15px" />
 </p>
 
 # Hyo! my name's Sultan :3! 
