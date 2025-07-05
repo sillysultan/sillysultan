@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/865443784007614504/233dcec4494092eeda196c409328a9c4.png?size=1024" width="50" style="border-radius: 15px" />
+  <img src="https://ibb.co/nVftb3t" width="125" style="border-radius: 15px" />
 </p>
 
 # Hyo! my name's Sultan :3! 
